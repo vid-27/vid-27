@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 
+### Vidhya Lakshmi here.
+CSBS'24CIT
+
+
 
 <!--
 **Vid-27/Vid-27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Vid](https://user-images.githubusercontent.com/72182858/140051060-1d4c463c-1083-4bf3-973b-279ba6d9948b.jpg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vid-27)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Vid-27&show_icons=true)
+![Profile views](https://gpvc.arturio.dev/Vid-27)
