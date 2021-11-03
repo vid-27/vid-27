@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working on Web Development and learning Mobile App Dev, Cloud.
 - 🤔 I’m looking for help and collaboration on Projects, Open Source. 
-- 💬 Ask me about books, comics, food, music.
 - 📫 How to reach me: vidhyasumathi27@outlook.com
 
     [![Twitter Follow](https://img.shields.io/twitter/follow/sumathividhya?label=Follow)](https://twitter.com/sumathividhya)
