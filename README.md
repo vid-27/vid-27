@@ -1,25 +1,20 @@
-### Hi there 👋 
-### Vidhya Lakshmi here.
-CSBS'24CIT
+### Hi there 👋 Vidhya Lakshmi here!!
+## Budding Tech Enthusiast, Curiouser & a Self-learner🌱
 
+- 🔭 I’m currently working on Web Development and learning Mobile App Dev, Cloud.
+- 🤔 I’m looking for help and collaboration on Projects, Open Source. 
+- 💬 Ask me about books, comics, food, music.
+- 📫 How to reach me: vidhyasumathi27@outlook.com
 
-
-<!--
-**Vid-27/Vid-27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    [![Twitter Follow](https://img.shields.io/twitter/follow/sumathividhya?label=Follow)](https://twitter.com/sumathividhya)
+[![Linkedin: Vidhya Lakshmi](https://img.shields.io/badge/-Vidhya%20Lakshmi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://www.linkedin.com/in/vidhya-l-1aaab61b90)](http://www.linkedin.com/in/vidhya-l-1aaab61b90)
+![Profile views](https://gpvc.arturio.dev/Vid-27)
+- 😄 Pronouns: she/her.
+- ⚡ Fun fact: I'm not afraid to strike up a conversation w/ complete strangers.
 
 ![Vid](https://user-images.githubusercontent.com/72182858/140051060-1d4c463c-1083-4bf3-973b-279ba6d9948b.jpg)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vid-27)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vid-27&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Vid-27&show_icons=true)
-![Profile views](https://gpvc.arturio.dev/Vid-27)
+
