@@ -9,8 +9,6 @@
     [![Twitter Follow](https://img.shields.io/twitter/follow/sumathividhya?label=Follow)](https://twitter.com/sumathividhya)
 [![Linkedin: Vidhya Lakshmi](https://img.shields.io/badge/-Vidhya%20Lakshmi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://www.linkedin.com/in/vidhya-l-1aaab61b90)](http://www.linkedin.com/in/vidhya-l-1aaab61b90)
 ![Profile views](https://gpvc.arturio.dev/Vid-27)
-- 😄 Pronouns: she/her.
-- ⚡ Fun fact: I'm not afraid to strike up a conversation w/ complete strangers.
 
 ![Vid](https://user-images.githubusercontent.com/72182858/140051060-1d4c463c-1083-4bf3-973b-279ba6d9948b.jpg)
 
