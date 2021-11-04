@@ -3,7 +3,7 @@
 with the urge of doing the unexpected. Building an empire and tryna be an octopus in this space.
 Proactive, inquisitive energetic CS student skilled in leadership with a strong foundation in math and programming logics. Interested in competitive programming and software development. Passionate about problem solving. Seeking to leverage exemplary solid development skills with a focus on collaboration, communication, passion and creativity into an engineering role that allows me to create engaging projects and user experiences outside of my academics.
 - 🔭 I’m currently working on Web Development and learning Mobile App Dev, Cloud, DSA.
-- 🤔 I’m looking for help and collaborate on Projects, Open Source. 
+- 🤔 I’m looking for help to collaborate on Projects, Open Source. 
 - 📫 How to reach me: vidhyasumathi27@outlook.com
 
     [![Twitter Follow](https://img.shields.io/twitter/follow/sumathividhya?label=Follow)](https://twitter.com/sumathividhya)
