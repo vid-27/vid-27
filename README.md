@@ -1,7 +1,7 @@
 ### Hi there 👋 Vidhya Lakshmi here!!
 ## Budding Tech Enthusiast, Curiouser & a Self-learner🌱
-with the urge of doing the unexpected. Building an empire and tryna be an octopus in this space.
-Proactive, inquisitive energetic CS student skilled in leadership with a strong foundation in math and programming logics. Interested in competitive programming and software development. Passionate about problem solving. Seeking to leverage exemplary solid development skills with a focus on collaboration, communication, passion and creativity into an engineering role that allows me to create engaging projects and user experiences outside of my academics.
+with the urge of doing the unexpected. Building an empire and tryna be an octopus in this space. Proactive, inquisitive energetic CS student skilled in leadership with a strong foundation in math and programming logics. Interested in competitive programming and software development. Passionate about problem solving. A zest for innovation, creativity and a burning desire for acquiring knowledge motivates me to seize every opportunity. Despite my busy schedule, I am able to multitask and prioritize efficiently. Seeking to leverage exemplary solid development skills with a focus on collaboration, communication, passion and creativity into an engineering role that allows me to create engaging projects and user experiences outside of my academics. My strong suit is my ability to adapt to a fast-paced environment and excel in it.
+
 - 🔭 I’m currently working on Web Development and learning Mobile App Dev, Cloud, DSA.
 - 🤔 I’m looking for help to collaborate on Projects, Open Source. 
 - 📫 How to reach me: vidhyasumathi27@outlook.com
