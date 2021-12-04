@@ -1,6 +1,6 @@
 ### Hi there 👋 Vidhya Lakshmi here!!
 ## Budding Tech Enthusiast, Curiouser & a Self-learner🌱 
-Proactive, inquisitive energetic CS student skilled in leadership with a strong foundation in math and programming logics. Interested in competitive programming and software development. Passionate about problem solving. A zest for innovation and a burning desire for acquiring knowledge in various fields motivates me to seize every opportunity. Seeking to leverage exemplary solid development skills with a focus on collaboration, management, communication, teamwork, passion and love for creativity into an engineering role that allows me to create engaging projects and user experiences outside of my academics.
+
 
 - 🔭 I’m currently working on Web Development and learning Mobile App Dev, Cloud, DSA.
 - 🤔 I’m looking for help to collaborate on Projects, Open Source. 
@@ -12,7 +12,9 @@ Proactive, inquisitive energetic CS student skilled in leadership with a strong 
 
 ![Vid](https://user-images.githubusercontent.com/72182858/140051060-1d4c463c-1083-4bf3-973b-279ba6d9948b.jpg)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Vid-27&show_icons=true) 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vid-27&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Vid-27&show_icons=true)
+
 
