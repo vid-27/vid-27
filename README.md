@@ -10,8 +10,6 @@
 [![Linkedin: Vidhya Lakshmi](https://img.shields.io/badge/-Vidhya%20Lakshmi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://www.linkedin.com/in/vidhya-l-1aaab61b90)](http://www.linkedin.com/in/vidhya-l-1aaab61b90)
 ![Profile views](https://gpvc.arturio.dev/Vid-27)
 
-![Vid](https://user-images.githubusercontent.com/72182858/140051060-1d4c463c-1083-4bf3-973b-279ba6d9948b.jpg)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Vid-27&show_icons=true) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vid-27&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
