@@ -3,7 +3,7 @@
 
 * 👩‍💻 Wannable Developer who writes clean code.
 * 🔭 I’m currently working on Web Development and learning DSA.
-* 🤔 I’m looking for help to collaborate on Projects, Open Source. 
+* 🤔 I’m looking for help to collaborate on Projects & Open Source. 
 * 📫 How to reach me: vidhyasumathi27@outlook.com
 
     [![Linkedin: Vidhya Lakshmi](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/vidhya-l-1aaab61b90)
