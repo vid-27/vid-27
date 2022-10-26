@@ -1,4 +1,4 @@
-## Hi, wazza! 🙋‍♀️ 
+### Hi there!👋
 
 * 👩‍💻 Wannable Developer who writes clean code.
 * 🔭 I’m currently working on Web Development and learning DSA.
